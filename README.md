@@ -1,1 +1,1 @@
-# e-book-application
+# electronic-books-application
